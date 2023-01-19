@@ -8,5 +8,4 @@
   <li> K means Clustering </li>
   <li> Decision Trees (using 'gini') </li>
   </ul>
-# My-ML-Library
-# My-ML-Library
+
